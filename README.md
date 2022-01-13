@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wordus
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning English, HTML, CSS, C#, Unity
-- 📫 How to reach me: Telegram: @karreli; email:vb.bugaga@yandex.ru 
+- 👋 Hi, I’m @Wordus;
+- 👀 I’m interested in Python programming;
+- 🌱 I’m currently learning English, python;
+- 📫 How to reach me: Telegram: @karreli;
 
 <!---
 Wordus/Wordus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
